@@ -1,0 +1,6 @@
+casa
+coche
+avion
+bici
+coche
+casa
